@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schoolcafe-to-ics//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Three Creeks Menu
+X-WR-TIMEZONE:America/Denver
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2026-10-19-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Lunch: French Toast and Turkey Sausage Patty / Soy Butter & Grape J
+ elly Sandwich
+DESCRIPTION:Entrees: French Toast and Turkey Sausage Patty\, Soy Butter & G
+ rape Jelly Sandwich\nVegetables: Baby Carrots\, Fresh Cucumber & Tomatoes\
+ nFruits: Diced Pears\, Orange Wedges
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Breakfast: Berry Sweet Biscuit / Cheerios Cereal / Cinnamon Chex Ce
+ real
+DESCRIPTION:Grains: Berry Sweet Biscuit\, Cheerios Cereal\, Cinnamon Chex C
+ ereal\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal\nFruits
+ : Apple\, Slices\, IW\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Lunch: Beef Nachos / Cheese and Pepperoni Pizza Only for Students 6
+ th Grade and Above / Crispy Chicken Sandwich
+DESCRIPTION:Entrees: Beef Nachos\, Cheese and Pepperoni Pizza Only for Stud
+ ents 6th Grade and Above\, Crispy Chicken Sandwich\nVegetables: Carrot & C
+ elery Mix\, Green Beans\nFruits: Golden Raisins - Sour Watermelon\, Golden
+  Raisins - Tropical Punch\, Seasonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Breakfast: French Toast Sticks
+DESCRIPTION:Entrees: French Toast Sticks\nGrains: Cheerios Cereal\, Cinnamo
+ n Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal
+ \nFruits: Diced Peaches\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Lunch: Cheese and Pepperoni Pizza / Turkey and Cheese Hoagie
+DESCRIPTION:Entrees: Cheese and Pepperoni Pizza\, Turkey and Cheese Hoagie\
+ nVegetables: Celery Sticks\, Cheesy Broccoli\, Fresh Broccoli\, Steamed Br
+ occoli\nFruits: Banana\, Fresh\, Blueberries\, Sliced Strawberries
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Breakfast: Pancake & Sausage Breakfast Sandwich
+DESCRIPTION:Entrees: Pancake & Sausage Breakfast Sandwich\nGrains: Cheerios
+  Cereal\, Cinnamon Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Crack
+ ers\, Trix Cereal\nFruits: Apple Crisps\, Strawberry Flavored\, Golden Rai
+ sins - Sour Watermelon\, Golden Raisins - Tropical Punch\nFruit-J: Apple J
+ uice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Lunch: Beef Chile Colorado Burrito / Blueberry Yogurt Parfait and G
+ ranola / Chicken Potstickers with Chicken Egg Roll
+DESCRIPTION:Entrees: Beef Chile Colorado Burrito\, Blueberry Yogurt Parfait
+  and Granola\, Chicken Potstickers with Chicken Egg Roll\, Strawberry Yogu
+ rt Parfait & Granola\nVegetables: Corn\, Sliced Cucumber\nFruits: Apple Cr
+ isps\, Strawberry Flavored\, Seasonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Breakfast: Cheerios Cereal / Cinnamon Chex Cereal / Frosted Corn Fl
+ akes Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cinnamon Chex Cereal\, Frosted Corn F
+ lakes Cereal\, Graham Crackers\, Trix Cereal\, Whole Grain Cinnamon Roll\n
+ Fruits: Orange Wedges\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Lunch: BBQ Pork Sandwich / Chicken Corn Dog
+DESCRIPTION:Entrees: BBQ Pork Sandwich\, Chicken Corn Dog\nVegetables: Baby
+  Carrots\, Baked Beans\nFruits: Apple\, Slices\, IW\, Fruit Juice Slush Bl
+ ue Raspberry\, Fruit Juice Slush Kiwi Strawberry\, Fruit Juice Slush Mango
+  Peach\, Fruit Juice Slush Paradise Punch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Breakfast: Blueberry Waffle / Cheerios Cereal / Cinnamon Chex Cerea
+ l
+DESCRIPTION:Grains: Blueberry Waffle\, Cheerios Cereal\, Cinnamon Chex Cere
+ al\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal\nFruits: A
+ pplesauce Cup\, Cinnamon Applesauce\, Peach Applesauce Cup\, Strawberry Ap
+ plesauce Cup\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Lunch: Mac and Cheese / Soy Butter & Grape Jelly Sandwich
+DESCRIPTION:Entrees: Mac and Cheese\, Soy Butter & Grape Jelly Sandwich\nVe
+ getables: Celery Sticks\, Green Peas\nFruits: Diced Peaches\, Orange Wedge
+ s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Breakfast: Chicken Sausage & Cheese Stuffed Waffle
+DESCRIPTION:Entrees: Chicken Sausage & Cheese Stuffed Waffle\nGrains: Cheer
+ ios Cereal\, Cinnamon Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Cr
+ ackers\, Trix Cereal\nFruits: Orange Wedges\nFruit-J: Apple Juice\, Orange
+  Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Lunch: Bean & Cheese Burrito / Cheese and Pepperoni Pizza Only for 
+ Students 6th Grade and Above / Pork Carnitas Taco
+DESCRIPTION:Entrees: Bean & Cheese Burrito\, Cheese and Pepperoni Pizza Onl
+ y for Students 6th Grade and Above\, Pork Carnitas Taco\nGrains: Spanish B
+ rown Rice\nVegetables: Beans\, Refried Frozen\, Carrot & Celery Mix\nFruit
+ s: Golden Raisins - Sour Watermelon\, Golden Raisins - Tropical Punch\, Se
+ asonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Breakfast: Cheerios Cereal / Cinnamon Chex Cereal / Frosted Corn Fl
+ akes Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cinnamon Chex Cereal\, Frosted Corn F
+ lakes Cereal\, Graham Crackers\, Trix Cereal\nMeat/Meat Alternatives: Pine
+ apple Mango Smoothie\, Strawberry Banana Smoothie\nFruits: Applesauce Cup\
+ , Cinnamon Applesauce\, Peach Applesauce Cup\, Strawberry Applesauce Cup\n
+ Fruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Lunch: Cheese and Pepperoni Pizza / Italian Trio Hoagie
+DESCRIPTION:Entrees: Cheese and Pepperoni Pizza\, Italian Trio Hoagie\nVege
+ tables: Baby Carrots\, Green Beans\nFruits: Applesauce Cup\, Banana\, Fres
+ h\, Cinnamon Applesauce\, Peach Applesauce Cup\, Strawberry Applesauce Cup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Breakfast: Mini Strawberry Pancakes
+DESCRIPTION:Entrees: Mini Strawberry Pancakes\nGrains: Cheerios Cereal\, Ci
+ nnamon Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix C
+ ereal\nFruits: Apple Crisps\, Strawberry Flavored\, Golden Raisins - Sour 
+ Watermelon\, Golden Raisins - Tropical Punch\nFruit-J: Apple Juice\, Orang
+ e Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Lunch: Beef Chile Colorado Burrito / Blueberry Yogurt Parfait and G
+ ranola / Mandarin Orange Chicken
+DESCRIPTION:Entrees: Beef Chile Colorado Burrito\, Blueberry Yogurt Parfait
+  and Granola\, Mandarin Orange Chicken\, Strawberry Yogurt Parfait & Grano
+ la\nGrains: Brown Rice\nVegetables: Baby Carrots\, Side Salad\nFruits: App
+ le Crisps\, Strawberry Flavored\, Seasonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Breakfast: Cheerios Cereal / Cinnamon Chex Cereal / Frosted Corn Fl
+ akes Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cinnamon Chex Cereal\, Frosted Corn F
+ lakes Cereal\, Graham Crackers\, Trix Cereal\, Whole Grain Cinnamon Roll\n
+ Fruits: Apple\, Slices\, IW\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lunch: Beef Chili / Promotion\, Beef\, Pretzel Wrapped Hot Dog
+DESCRIPTION:Entrees: Beef Chili\, Promotion\, Beef\, Pretzel Wrapped Hot Do
+ g\nGrains: Fritos Corn Chips\nVegetables: Sliced Cucumber\, Tater Tots\nFr
+ uits: Apple\, Slices\, IW\, Fruit Juice Slush Blue Raspberry\, Fruit Juice
+  Slush Kiwi Strawberry\, Fruit Juice Slush Mango Peach\, Fruit Juice Slush
+  Paradise Punch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Breakfast: Cheerios Cereal / Cherry Frudel / Cinnamon Chex Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cherry Frudel\, Cinnamon Chex Cereal\
+ , Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal\nFruits: Dice
+ d Pears\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Lunch: Roasted Chicken Drumstick / Soy Butter & Grape Jelly Sandwic
+ h
+DESCRIPTION:Entrees: Roasted Chicken Drumstick\, Soy Butter & Grape Jelly S
+ andwich\nGrains: Dinner Roll\nVegetables: Baby Carrots\, Roasted Potatoes\
+ nFruits: Diced Pears\, Orange Wedges
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Breakfast: Berry Sweet Biscuit / Cheerios Cereal / Cinnamon Chex Ce
+ real
+DESCRIPTION:Grains: Berry Sweet Biscuit\, Cheerios Cereal\, Cinnamon Chex C
+ ereal\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal\nFruits
+ : Apple\, Slices\, IW\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Lunch: Cheese and Pepperoni Pizza Only for Students 6th Grade and A
+ bove / Cheese Calzone / Cheeseburger
+DESCRIPTION:Entrees: Cheese and Pepperoni Pizza Only for Students 6th Grade
+  and Above\, Cheese Calzone\, Cheeseburger\, Hamburger\nVegetables: Baked 
+ Beans\, Side Salad\nFruits: Golden Raisins - Sour Watermelon\, Golden Rais
+ ins - Tropical Punch\, Seasonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Breakfast: French Toast Sticks
+DESCRIPTION:Entrees: French Toast Sticks\nGrains: Cheerios Cereal\, Cinnamo
+ n Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal
+ \nFruits: Diced Peaches\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Lunch: Cheese and Pepperoni Pizza / Turkey and Cheese Hoagie
+DESCRIPTION:Entrees: Cheese and Pepperoni Pizza\, Turkey and Cheese Hoagie\
+ nVegetables: Celery Sticks\, Fresh Cucumber & Tomatoes\nFruits: Banana\, F
+ resh\, Blueberries\, Sliced Strawberries
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Breakfast: Pancake & Sausage Breakfast Sandwich
+DESCRIPTION:Entrees: Pancake & Sausage Breakfast Sandwich\nGrains: Cheerios
+  Cereal\, Cinnamon Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Crack
+ ers\, Trix Cereal\nFruits: Apple Crisps\, Strawberry Flavored\, Golden Rai
+ sins - Sour Watermelon\, Golden Raisins - Tropical Punch\nFruit-J: Apple J
+ uice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Lunch: Beef Chile Colorado Burrito / Blueberry Yogurt Parfait and G
+ ranola / Chicken Tenders and Maple Waffle
+DESCRIPTION:Entrees: Beef Chile Colorado Burrito\, Blueberry Yogurt Parfait
+  and Granola\, Chicken Tenders and Maple Waffle\, Strawberry Yogurt Parfai
+ t & Granola\nVegetables: Corn\, Sliced Cucumber\nFruits: Apple Crisps\, St
+ rawberry Flavored\, Seasonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Breakfast: Cheerios Cereal / Cinnamon Chex Cereal / Frosted Corn Fl
+ akes Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cinnamon Chex Cereal\, Frosted Corn F
+ lakes Cereal\, Graham Crackers\, Trix Cereal\, Whole Grain Cinnamon Roll\n
+ Fruits: Orange Wedges\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Lunch: All Beef Hot Dog / Penne Pasta with Plant Powered Marinara
+DESCRIPTION:Entrees: All Beef Hot Dog\, Penne Pasta with Plant Powered Mari
+ nara\nVegetables: Baby Carrots\, Cheesy Broccoli\, Fresh Broccoli\, Steame
+ d Broccoli\nFruits: Apple\, Slices\, IW\, Fruit Juice Slush Blue Raspberry
+ \, Fruit Juice Slush Kiwi Strawberry\, Fruit Juice Slush Mango Peach\, Fru
+ it Juice Slush Paradise Punch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Breakfast: Blueberry Waffle / Cheerios Cereal / Cinnamon Chex Cerea
+ l
+DESCRIPTION:Grains: Blueberry Waffle\, Cheerios Cereal\, Cinnamon Chex Cere
+ al\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal\nFruits: A
+ pplesauce Cup\, Cinnamon Applesauce\, Peach Applesauce Cup\, Strawberry Ap
+ plesauce Cup\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Lunch: Mac and Cheese / Soy Butter & Grape Jelly Sandwich
+DESCRIPTION:Entrees: Mac and Cheese\, Soy Butter & Grape Jelly Sandwich\nVe
+ getables: Carrot & Celery Mix\, Green Peas\nFruits: Diced Peaches\, Orange
+  Wedges
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Breakfast: Chicken Sausage & Cheese Stuffed Waffle
+DESCRIPTION:Entrees: Chicken Sausage & Cheese Stuffed Waffle\nGrains: Cheer
+ ios Cereal\, Cinnamon Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Cr
+ ackers\, Trix Cereal\nFruits: Orange Wedges\nFruit-J: Apple Juice\, Orange
+  Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Lunch: Cheese and Pepperoni Pizza Only for Students 6th Grade and A
+ bove / Chicken Tenders / Grilled Cheese Sandwich
+DESCRIPTION:Entrees: Cheese and Pepperoni Pizza Only for Students 6th Grade
+  and Above\, Chicken Tenders\, Grilled Cheese Sandwich\nGrains: Dinner Rol
+ l\nVegetables: Baby Carrots\, Mashed Potatoes\nFruits: Golden Raisins - So
+ ur Watermelon\, Golden Raisins - Tropical Punch\, Seasonal Fresh Fruit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Breakfast: Cheerios Cereal / Cinnamon Chex Cereal / Frosted Corn Fl
+ akes Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cinnamon Chex Cereal\, Frosted Corn F
+ lakes Cereal\, Graham Crackers\, Trix Cereal\nMeat/Meat Alternatives: Pine
+ apple Mango Smoothie\, Strawberry Banana Smoothie\nFruits: Applesauce Cup\
+ , Cinnamon Applesauce\, Peach Applesauce Cup\, Strawberry Applesauce Cup\n
+ Fruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Lunch: Italian Trio Hoagie / Twisted Cheese Stuffed Breadsticks
+DESCRIPTION:Entrees: Italian Trio Hoagie\, Twisted Cheese Stuffed Breadstic
+ ks\nVegetables: Green Beans\, Sliced Cucumber\nFruits: Applesauce Cup\, Ba
+ nana\, Fresh\, Cinnamon Applesauce\, Peach Applesauce Cup\, Strawberry App
+ lesauce Cup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Breakfast: Mini Strawberry Pancakes
+DESCRIPTION:Entrees: Mini Strawberry Pancakes\nGrains: Cheerios Cereal\, Ci
+ nnamon Chex Cereal\, Frosted Corn Flakes Cereal\, Graham Crackers\, Trix C
+ ereal\nFruits: Apple Crisps\, Strawberry Flavored\, Golden Raisins - Sour 
+ Watermelon\, Golden Raisins - Tropical Punch\nFruit-J: Apple Juice\, Orang
+ e Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lunch: Beef Chile Colorado Burrito / Blueberry Yogurt Parfait and G
+ ranola / Sliced Turkey Roast - Holiday Meal Promotion
+DESCRIPTION:Entrees: Beef Chile Colorado Burrito\, Blueberry Yogurt Parfait
+  and Granola\, Sliced Turkey Roast - Holiday Meal Promotion\, Strawberry Y
+ ogurt Parfait & Granola\nGrains: Dinner Roll\nVegetables: Green Beans\, Ma
+ shed Potatoes\nFruits: Applesauce Cup\, Cinnamon Applesauce\, Seasonal Fre
+ sh Fruit\nDesserts: Turkey Shaped Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Breakfast: Cheerios Cereal / Cinnamon Chex Cereal / Frosted Corn Fl
+ akes Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cinnamon Chex Cereal\, Frosted Corn F
+ lakes Cereal\, Graham Crackers\, Trix Cereal\, Whole Grain Cinnamon Roll\n
+ Fruits: Apple\, Slices\, IW\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-lunch@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Lunch: Bean & Cheese Burrito / Teriyaki Chicken
+DESCRIPTION:Entrees: Bean & Cheese Burrito\, Teriyaki Chicken\nGrains: Brow
+ n Rice\nVegetables: Celery Sticks\, Edamame\nFruits: Apple\, Slices\, IW\,
+  Fruit Juice Slush Blue Raspberry\, Fruit Juice Slush Kiwi Strawberry\, Fr
+ uit Juice Slush Mango Peach\, Fruit Juice Slush Paradise Punch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-breakfast@schoolcafe-menu
+DTSTAMP:20261025T205909Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Breakfast: Cheerios Cereal / Cherry Frudel / Cinnamon Chex Cereal
+DESCRIPTION:Grains: Cheerios Cereal\, Cherry Frudel\, Cinnamon Chex Cereal\
+ , Frosted Corn Flakes Cereal\, Graham Crackers\, Trix Cereal\nFruits: Dice
+ d Pears\nFruit-J: Apple Juice\, Orange Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
